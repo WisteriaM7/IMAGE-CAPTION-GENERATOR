@@ -1,6 +1,7 @@
 # 🖼️ Image Caption Generator (LLaVA)
 
 An AI-powered image captioning app using the **LLaVA vision-language model** via Ollama, with a FastAPI backend and a Streamlit frontend. Upload any image and receive a natural-language description instantly — all running locally.
+![IMAGE CAPTION GENERATOR](https://github.com/WisteriaM7/IMAGE-CAPTION-GENERATOR/blob/main/Screenshot%202026-04-25%20203731.png)
 
 ---
 
